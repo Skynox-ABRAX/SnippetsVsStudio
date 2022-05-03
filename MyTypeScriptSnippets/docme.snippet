@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <CodeSnippet Format="1.0.0">
+        <Header>
+            <Title>Doc Me</Title>
+            <Author>Abrax</Author>
+            <Shortcut>docme</Shortcut>
+            <Description>generate template for docme file</Description>
+            <SnippetTypes>
+                <SnippetType>Expansion</SnippetType>
+            </SnippetTypes>
+        </Header>
+        <Snippet>
+            <Declarations>
+                <Literal Editable="true">
+                    <ID>Title</ID>
+                    <ToolTip>title of docme</ToolTip>
+                    <Default></Default>
+                </Literal>
+                <Literal Editable="true">
+                    <ID>Author</ID>
+                    <ToolTip>Author of docme</ToolTip>
+                    <Default>Abrax</Default>
+                </Literal>
+                <Literal Editable="true">
+                    <ID>Description</ID>
+                    <ToolTip>Description of docme</ToolTip>
+                    <Default>Description du fichier</Default>
+                </Literal>
+                <Literal Editable="true">
+                    <ID>Company</ID>
+                    <ToolTip>companny genrating this template of docme</ToolTip>
+                    <Default>Abrax</Default>
+                </Literal>
+                <Literal Editable="true">
+                    <ID>Revision</ID>
+                    <ToolTip>revision of docme</ToolTip>
+                    <Default>1.0.0</Default>
+                </Literal>
+                <Literal Editable="true">
+                    <ID>Date</ID>
+                    <ToolTip>date of the update of docme</ToolTip>
+                    <Default></Default>
+                </Literal>
+            </Declarations>
+            <Code Language="typescript,javascript" Delimiter="$">
+                <![CDATA[/* Title :
+ * Author :  $Author$
+ * Description : $Description$
+ * Company : $Company$
+ * Revision : $Revision$
+ * Date(update) : $Date$
+ *
+ * */
+]]>
+            </Code>
+    </Snippet>
+  </CodeSnippet>
+</CodeSnippets>
