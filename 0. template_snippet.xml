@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <CodeSnippet Format="1.0.0">
+        <Header>
+            <Title>rlink</Title>
+            <Author>Abrax</Author>
+            <Shortcut>rlink</Shortcut>
+            <Description>ceci est une description</Description>
+            <SnippetTypes>
+                <SnippetType>Expansion</SnippetType>
+            </SnippetTypes>
+        </Header>
+        <Snippet>
+            <Declarations>
+                <Literal Editable="true">
+                    <ID>controller</ID>
+                    <ToolTip>replace controller</ToolTip>
+                    <Default>controller</Default>
+                </Literal>
+                <Literal Editable="true">
+                    <ID>action</ID>
+                    <ToolTip>replace action</ToolTip>
+                    <Default>action</Default>
+                </Literal>
+                <Literal Editable="true">
+                    <ID>id</ID>
+                    <ToolTip>replace id</ToolTip>
+                    <Default>id</Default>
+                </Literal>
+            </Declarations>
+            <Code Language="html" Delimiter="$">
+                <![CDATA[[routerLink]="['$controller$/$action$/$id$']"]]>
+            </Code>
+    </Snippet>
+  </CodeSnippet>
+</CodeSnippets>
