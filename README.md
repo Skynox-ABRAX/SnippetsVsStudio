@@ -60,7 +60,7 @@
 ## Details
 
 
-##### HTML
+### HTML
 
  <ul>
     <li> Angular HTML 
@@ -77,13 +77,13 @@
     <li>Others HTML</li>
 </ul>   
 
-##### CSS
+### CSS
 
-##### C Sharp
+### C Sharp
 
-##### Javascript
+### Javascript
 
-##### Typescript
+### Typescript
 
 <li> Angular Typescript 
         <ul>
@@ -105,9 +105,9 @@
     <br>
     <li>Others Typescript</li>
 
-##### SQL
+#### SQL
 
-##### XML
+#### XML
 
 
 
