@@ -37,8 +37,8 @@
   <ol>
     <li> <a href="#html">html</a>
         <ul>
-            <li><a href="#htmlAngular">Angular html</a></li>
-            <li><a href="#htmlOthers">Others html</a></li><br>
+            <li><a href="#angular-html">Angular html</a></li>
+            <li><a href="#others-html">Others html</a></li><br>
         </ul>
     </li>
     <li><a href="#css">CSS</a></li>
@@ -46,8 +46,8 @@
     <li><a href="#javascript">Javascript</a></li>
     <li> <a href="#typescript">Typescript</a>
         <ul>
-            <li><a href="#typescriptAngular">Angular Typescript</a></li>
-            <li><a href="#typescriptOthers">Others Typescript</a></li><br>
+            <li><a href="#angular-typescript">Angular Typescript</a></li>
+            <li><a href="#others-typescript">Others Typescript</a></li><br>
         </ul>
     </li>
     <li><a href="#SQL">SQL</a></li>
@@ -87,7 +87,7 @@
 
 ### Typescript
 
-##### Angular Typescript
+##### Angular Typescript 
 <ul>
     <li>Doc Me : <br>
     ** <strong>docme</strong> **<br>
