@@ -69,7 +69,7 @@
     <li> Angular HTML 
         <ul>
             <li>
-                Router link : <em style={color:"red"}>rtrlink</em><br>
+                Router link : <strong> style={color:"red"}>rtrlink</strong><br>
                 <i>Generate a router link attribute : <br>
                   [routerLink]="['action/controller/id']" </i>
             </li>
