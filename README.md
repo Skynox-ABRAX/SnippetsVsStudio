@@ -85,7 +85,7 @@
 
 ##### Typescript
 
-<li> Angular HTML 
+<li> Angular Typescript 
         <ul>
             <li>
                 Doc Me : <br>
