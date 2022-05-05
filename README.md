@@ -69,7 +69,7 @@
     <li> Angular HTML 
         <ul>
             <li>
-                Router link : <strong> style={color:"red"}>rtrlink</strong><br>
+                Router link : [![](https://img.shields.io/badge/rtrlink-blue?style=for-the-badge)](https://github.com/hamzamohdzubair/redant)
                 <i>Generate a router link attribute : <br>
                   [routerLink]="['action/controller/id']" </i>
             </li>
@@ -109,7 +109,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Renaud CHAVET - r.chavet@abrax.fr
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/abrax-rc/SnippetsVsStudio.git)
+Project Link: [https://github.com/abrax-rc/SnippetsVsStudio.git](https://github.com/abrax-rc/SnippetsVsStudio.git)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
