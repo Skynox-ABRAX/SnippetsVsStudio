@@ -21,9 +21,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
 <h3 align="center">Snippets for Visual Studio</h3>
 
@@ -35,13 +32,13 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of contents
 
-<details>
-  <summary>Summary</summary>
+
+  Summary
   <ol>
     <li> <a href="#html">html</a>
         <ul>
             <li><a href="#htmlAngular">Angular html</a></li>
-            <li><a href="#htmlOthers">Others html</a></li>
+            <li><a href="#htmlOthers">Others html</a></li><br>
         </ul>
     </li>
     <li><a href="#css">CSS</a></li>
@@ -50,13 +47,13 @@
     <li> <a href="#typescript">Typescript</a>
         <ul>
             <li><a href="#typescriptAngular">Angular Typescript</a></li>
-            <li><a href="#typescriptOthers">Others Typescript</a></li>
+            <li><a href="#typescriptOthers">Others Typescript</a></li><br>
         </ul>
     </li>
     <li><a href="#SQL">SQL</a></li>
     <li><a href="#XML">XML</a></li>
   </ol>
-</details>
+
 
 
 <!-- DETAILS OF SHORTCUTS -->
