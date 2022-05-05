@@ -69,7 +69,8 @@
     <li> Angular HTML 
         <ul>
             <li>
-                Router link : [![](https://img.shields.io/badge/rtrlink-blue?style=for-the-badge)](https://github.com/hamzamohdzubair/redant)
+                Router link : <br>
+                ** <strong>rtrlink</strong> **<br>
                 <i>Generate a router link attribute : <br>
                   [routerLink]="['action/controller/id']" </i>
             </li>
