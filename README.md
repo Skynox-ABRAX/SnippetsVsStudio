@@ -109,7 +109,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Renaud CHAVET - r.chavet@abrax.fr
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/github_username/repo_name](https://github.com/abrax-rc/SnippetsVsStudio.git)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
