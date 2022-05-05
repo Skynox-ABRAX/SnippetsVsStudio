@@ -62,6 +62,7 @@
 
 ### HTML
 
+##### Angular HTML
  <ul>
     <li> Angular HTML 
         <ul>
@@ -74,8 +75,9 @@
         </ul>
     </li>
     <br>
-    <li>Others HTML</li>
 </ul>   
+
+##### Others HTML
 
 ### CSS
 
@@ -85,25 +87,23 @@
 
 ### Typescript
 
-<li> Angular Typescript 
-        <ul>
-            <li>
-                Doc Me : <br>
-                ** <strong>docme</strong> **<br>
-                <i>Generate a template for a file comments of docme type : <br>
-                  /* Title : $title$ <br>
-                     * Author :  $author$ <br>
-                     * Description : $description$ <br>
-                     * Company : $company$ <br>
-                     * Revision : $revision$ <br>
-                     * Date(update) : <br>
-                     *<br>
-                     * */ </i>
-            </li>
-        </ul>
+##### Angular Typescript
+<ul>
+    <li>Doc Me : <br>
+    ** <strong>docme</strong> **<br>
+    <i>Generate a template for a file comments of docme type : <br>
+      /* Title : $title$ <br>
+          * Author :  $author$ <br>
+          * Description : $description$ <br>
+          * Company : $company$ <br>
+          * Revision : $revision$ <br>
+          * Date(update) : <br>
+          *<br>
+          * */ </i>
     </li>
-    <br>
-    <li>Others Typescript</li>
+</ul> <br>
+
+##### Others Typescript
 
 #### SQL
 
