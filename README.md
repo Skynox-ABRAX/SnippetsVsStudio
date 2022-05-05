@@ -85,6 +85,25 @@
 
 ##### Typescript
 
+<li> Angular HTML 
+        <ul>
+            <li>
+                Doc Me : <br>
+                ** <strong>docme</strong> **<br>
+                <i>Generate a template for a file comments of docme type : <br>
+                  /* Title : $title$ <br>
+                     * Author :  $author$ <br>
+                     * Description : $description$ <br>
+                     * Company : $company$ <br>
+                     * Revision : $revision$ <br>
+                     * Date(update) : <br>
+                     *<br>
+                     * */ </i>
+            </li>
+        </ul>
+    </li>
+    <br>
+    <li>Others HTML</li>
 ##### SQL
 
 ##### XML
