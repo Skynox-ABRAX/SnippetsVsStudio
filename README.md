@@ -103,7 +103,7 @@
         </ul>
     </li>
     <br>
-    <li>Others HTML</li>
+    <li>Others Typescript</li>
 
 ##### SQL
 
