@@ -64,18 +64,22 @@
 
 ##### Angular HTML
  <ul>
-    <li> Angular HTML 
-        <ul>
             <li>
-                Router link : <br>
-                ** <strong>rtrlink</strong> **<br>
-                <i>Generate a router link attribute : <br>
-                  [routerLink]="['action/controller/id']" </i>
-            </li>
-        </ul>
-    </li>
-    <br>
+                Router link : 
+
+[![rtrlink](https://img.shields.io/badge/Shortcut-rtrlink-blue)](https://img.shields.io/badge/Shortcut-rtrlink-blue)
+
+  </li>
+
+<i>Generate a router link attribute : </i>
+```html
+[routerLink]="['action/controller/id']" 
+```    
+             
+
 </ul>   
+
+
 
 ##### Others HTML
 
@@ -89,18 +93,27 @@
 
 ##### Angular Typescript 
 <ul>
-    <li>Doc Me : <br>
-    ** <strong>docme</strong> **<br>
-    <i>Generate a template for a file comments of docme type : <br>
-      /* Title : $title$ <br>
-          * Author :  $author$ <br>
-          * Description : $description$ <br>
-          * Company : $company$ <br>
-          * Revision : $revision$ <br>
-          * Date(update) : <br>
-          *<br>
-          * */ </i>
-    </li>
+
+ <li> Doc Me :
+
+[![rtrlink](https://img.shields.io/badge/Shortcut-docme-orange)](https://img.shields.io/badge/Shortcut-rtrlink-blue)
+
+  </li>
+
+<i>Generate a template for a file comments of docme type :  </i>
+
+```typescript
+      /* Title : $title$
+          * Author :  $author$
+          * Description : $description$
+          * Company : $company$
+          * Revision : $revision$
+          * Date(update) : 
+          *
+          * */
+```         
+
+
 </ul> <br>
 
 ##### Others Typescript
