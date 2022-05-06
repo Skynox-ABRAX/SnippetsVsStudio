@@ -150,8 +150,7 @@ Project Link: [https://github.com/abrax-rc/SnippetsVsStudio.git](https://github.
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-
-* [shields.io] (https://shields.io/)
-* [create snippet VS Studio] (https://docs.microsoft.com/fr-fr/visualstudio/ide/walkthrough-creating-a-code-snippet?view=vs-2022)
+* [shields.io](https://shields.io/)
+* [create snippet VS Studio](https://docs.microsoft.com/fr-fr/visualstudio/ide/walkthrough-creating-a-code-snippet?view=vs-2022)
 
 
