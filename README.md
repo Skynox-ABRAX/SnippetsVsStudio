@@ -73,7 +73,7 @@
 
 <i>Generate a router link attribute : </i>
 ```html
-[routerLink]="['action/controller/id']" 
+[routerLink]="['controller/action/id']" 
 ```    
              
 
